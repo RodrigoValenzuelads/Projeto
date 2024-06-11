@@ -39,7 +39,8 @@ body * {
   font-family: "Inter", sans-serif;
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   padding: 0 24px;
 
   margin: 56px auto 0px; /* 56px top, auto nas laterais e 0 botton*/
